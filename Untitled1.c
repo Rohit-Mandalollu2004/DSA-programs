@@ -1,3 +1,6 @@
+Radha and meera were palying a game. Radha picked the even number bunch box and meera got odd number bunch box. Randomly both started picking one coin from box 
+and the luckiest one who gets the highest count is counted to be the winner.
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
